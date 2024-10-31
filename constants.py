@@ -1,0 +1,3 @@
+CLIENT_ID = "317a472b82d74e56a983b3efc9481020"
+CLIENT_SECRET = "ad6990f515ae4bc5b365df144484abf9"
+AUTH_URL = 'http://localhost:8888/callback'
