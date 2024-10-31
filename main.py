@@ -1,12 +1,10 @@
 from spotipy import *
-import spotipy
 from constants import *
+import urllib.request
+import spotipy
 import requests
 import json
-import urllib.request
 import re
-import pafy
-import yt_dlp
 import subprocess
 import os
 
